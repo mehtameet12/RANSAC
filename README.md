@@ -7,9 +7,7 @@ The intelligent vehicles of the future will be equipped with a multitude of sens
 
 Each time a laser beam hit an object, the laser light bounces back to the LiDAR from which a precise distance can be estimated. A complete scan of the scene with these lasers will therefore generate a large set of 3D points (also called point cloud) that correspond to the structure of the scene. The figure below shows a typical point cloud captured by a car equipped with a LiDAR. A view of the same scene captured by a camera is also shown. 
 # **Original Picture**
-![A person standing in a parking lot
-
-Description automatically generated with medium confidence](Aspose.Words.484a949d-ba19-46cc-9e5b-052fe440a649.002.png)
+![](Photos/Aspose.Words.484a949d-ba19-46cc-9e5b-052fe440a649.002.png)
 
 *Figure: Capture of parking lot from a vehicle equipped with LIDAR.*
 # **Original Point Cloud**
