@@ -1,6 +1,6 @@
 <a name="_9nvcibv3gama"></a>  1
 
-![horizontal line](Aspose.Words.484a949d-ba19-46cc-9e5b-052fe440a649.001.png)
+![horizontal line](Photos/Aspose.Words.484a949d-ba19-46cc-9e5b-052fe440a649.001.png)
 # **RANSAC Algorithm application using JAVA, GO, SCHEME, and PROLOG**
 # **Problem to Solve**
 The intelligent vehicles of the future will be equipped with a multitude of sensors to capture information about the surrounding scene and thus being able to autonomously navigate. One of these sensors is the Laser Scanner or LiDAR (Light Detection And Ranging). Using a LiDAR, the vehicle can scan the scene in front by sweeping few laser beams (typically between 8 to 64 lasers). 
@@ -15,7 +15,7 @@ Description automatically generated with medium confidence](Aspose.Words.484a949
 # **Original Point Cloud**
 Below is the 3D image of the point cloud that we will be working with. 
 
-![](Aspose.Words.484a949d-ba19-46cc-9e5b-052fe440a649.003.png)
+![](Photos/Aspose.Words.484a949d-ba19-46cc-9e5b-052fe440a649.003.png)
 
 *Figure: PointCloud of the original image.*
 
@@ -60,7 +60,7 @@ We plot the results of the experiment on a graph showing the runtime versus the 
 ## <a name="_vwvwuj6kjugb"></a>
 ## <a name="_r51c98n9i1xt"></a>Graph showing Threads VS Run Time
 
-![](Aspose.Words.484a949d-ba19-46cc-9e5b-052fe440a649.004.png)
+![](Photos/Aspose.Words.484a949d-ba19-46cc-9e5b-052fe440a649.004.png)
 
 *Figure: Graph showing the number of threads VS Run Time for each thread.*
 # <a name="_ppksk499tgsv"></a>**Discussion**
