@@ -1,6 +1,6 @@
 <a name="_9nvcibv3gama"></a>  1
 
-![horizontal line](Photos/Aspose.Words.484a949d-ba19-46cc-9e5b-052fe440a649.001.png)
+
 # **RANSAC Algorithm application using JAVA, GO, SCHEME, and PROLOG**
 # **Problem to Solve**
 The intelligent vehicles of the future will be equipped with a multitude of sensors to capture information about the surrounding scene and thus being able to autonomously navigate. One of these sensors is the Laser Scanner or LiDAR (Light Detection And Ranging). Using a LiDAR, the vehicle can scan the scene in front by sweeping few laser beams (typically between 8 to 64 lasers). 
