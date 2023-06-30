@@ -1,4 +1,4 @@
-<a name="_9nvcibv3gama"></a>  1
+
 
 
 # **RANSAC Algorithm application using JAVA, GO, SCHEME, and PROLOG**
